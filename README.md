@@ -1,2 +1,1 @@
-# Data-Collection-Analytics
-Project to analyse the California's Bay Area Housing data and Prices
+The real estate market in San Francisco Bay Area is constantly evolving, with prices and demand fluctuating rapidly. In this project, we utilized data analytics techniques to analyze and visualize the trends in the San Francisco Bay Area real estate market. By collecting and cleaning data on housing and rental prices, we were able to develop predictive models to forecast future market trends. Our analysis and visualization of the data using Python provided valuable insights for real estate professionals and investors looking to make informed decisions in the San Francisco Bay Area market.
